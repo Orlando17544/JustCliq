@@ -1,4 +1,4 @@
-# CliqApp
+# JustCliq
 This is an e-commerce app that runs over android &amp; ios.
 <br/>
 <br/>
